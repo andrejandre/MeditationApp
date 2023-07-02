@@ -3,12 +3,8 @@
 This is a SwiftUI application I built as part of a course to explore and understand the use of gestures, animations, and view management in SwiftUI.
 
 ## About The Project
-
-![Screen 1](https://github.com/andrejandre/MeditationApp/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-07-02%20at%2009.54.16.png)
-![Screen 2](https://github.com/andrejandre/MeditationApp/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-07-02%20at%2009.54.23.png)
-
 <img src="https://github.com/andrejandre/MeditationApp/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-07-02%20at%2009.54.16.png" width=50%>
-<img src="[https://i.imgur.com/ZWnhY9T.png](https://github.com/andrejandre/MeditationApp/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-07-02%20at%2009.54.23.png" width=50%>
+<img src="https://i.imgur.com/ZWnhY9T.png](https://github.com/andrejandre/MeditationApp/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-07-02%20at%2009.54.23.png" width=50%>
 
 This project is a SwiftUI application that was developed during my exploration of Robert Petras' course (linked below). The main aim of the project was to explore and learn about gestures, animations, and view management in SwiftUI. The application provides users with [explain the main features of your app here].
 
